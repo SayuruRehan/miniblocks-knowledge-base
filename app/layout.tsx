@@ -7,8 +7,8 @@ import Navigation from '@/components/navigation';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Kids Knowledge Base',
-  description: 'A fun and friendly guide for kids',
+  title: 'Miniblocks User Guide',
+  description: 'A fun and friendly guide for kids to learn about the Miniblocks platform.',
 };
 
 export default function RootLayout({
