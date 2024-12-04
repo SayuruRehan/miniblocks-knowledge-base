@@ -8,10 +8,10 @@ export default function Home() {
       <div className="flex flex-col items-center justify-center space-y-8 text-center">
         <div className="space-y-4">
           <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">
-            Welcome to the Kids Guide! 🌟
+            Welcome to the Miniblocks User Guide! 🌟
           </h1>
           <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-            Let&apos;s explore and learn together in this fun adventure!
+            Let&apos;s explore and learn together in this fun mobile application adventure!
           </p>
         </div>
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
@@ -30,7 +30,7 @@ export default function Home() {
           <Card className="transform transition-transform hover:scale-105">
             <CardHeader>
               <Rocket className="h-8 w-8 mb-2 text-primary" />
-              <CardTitle>Fun Activities</CardTitle>
+              <CardTitle>Sample Activities</CardTitle>
               <CardDescription>Discover amazing games and activities!</CardDescription>
             </CardHeader>
             <CardContent>

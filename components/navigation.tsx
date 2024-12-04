@@ -115,7 +115,7 @@ export default function Navigation() {
       <div className="flex h-14 items-center border-b px-4">
         <Link href="/" className="flex items-center gap-2 font-semibold">
           <BookOpen className="h-6 w-6" />
-          <span className="text-lg">Kids Guide</span>
+          <span className="text-lg">Miniblocks</span>
         </Link>
       </div>
       <ScrollArea className="h-[calc(100vh-3.5rem)] py-4">
